@@ -101,3 +101,10 @@ Esto es un texto dividido por asteriscos
 Esto es un texto dividido por guines bajos
 ___
 
+# Saltos de linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+- Lista
